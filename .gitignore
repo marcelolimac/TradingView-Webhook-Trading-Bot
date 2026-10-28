@@ -170,3 +170,7 @@ pyvenv.cfg
 pip-selfcheck.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python,venv,dotenv
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
